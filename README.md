@@ -74,11 +74,11 @@
  <h2>ℹ️ &nbsp;Github Info</h2>
 <details>	
   <summary><b>🔎 Github Profile Details</b></summary>
-<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rkvirajgupta&theme=github_dark" alt="Viraj's" align = "center"/></p>
+<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dhruva8878&theme=github_dark" alt="Dhruva's" align = "center"/></p>
 </details>
 <details>
 <!--  <summary><b>🔥 Github Streaks</b></summary>
-<p align="center"><img src="https://github-readme-streak-statskbiswal01s.herokuapp.com/?user=rkvirajgupta&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="rkvirajgupta" /></p>
+<p align="center"><img src="https://github-readme-streak-statskbiswal01s.herokuapp.com/?user=Dhruva8878&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="rkvirajgupta" /></p>
 </details> -->
 <details>
 <summary><b>📊 Github Contribution Graph</b></summary>
@@ -86,7 +86,7 @@
 </details>
 <details>   
  <summary><b>🏆 Github Achievements</b></summary>
-<p align="center"> <a href="https://github.com/Dhruva8878"><img src="https://github-profile-trophy.vercel.app/?username=Dhruva8878&margin-w=5&theme=radical" alt="Viraj's" /></a> </p>
+<p align="center"> <a href="https://github.com/Dhruva8878"><img src="https://github-profile-trophy.vercel.app/?username=Dhruva8878&margin-w=5&theme=radical" alt="Dhruva's" /></a> </p>
  </details>
 
 
