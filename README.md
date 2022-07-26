@@ -1,6 +1,6 @@
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=rkvirajgupta&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=Dhruv&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rkvirajgupta&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruv&layout=compact">
 
  -->
 
@@ -18,7 +18,7 @@
   <img align="left" alt="Dhruv's LinkedIn" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <!-- <a href="https://twitter.com/">
-  <img align="left" alt="Viraj | Twitter" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Dhruva | Twitter" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a> -->
 
 <br/>
@@ -78,15 +78,15 @@
 </details>
 <details>
 <!--  <summary><b>🔥 Github Streaks</b></summary>
-<p align="center"><img src="https://github-readme-streak-statskbiswal01s.herokuapp.com/?user=Dhruva8878&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="rkvirajgupta" /></p>
+<p align="center"><img src="https://github-readme-streak-statskbiswal01s.herokuapp.com/?user=Dhruva8878&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="Dhruv" /></p>
 </details> -->
 <details>
 <summary><b>📊 Github Contribution Graph</b></summary>
-<p align="center"<a href="#"><img alt="Simran Dhiman's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Dhruva8878&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
+<p align="center"<a href="#"><img alt="Dhruv" src="https://activity-graph.herokuapp.com/graph?username=Dhruva8878&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
 </details>
 <details>   
  <summary><b>🏆 Github Achievements</b></summary>
-<p align="center"> <a href="https://github.com/Dhruva8878"><img src="https://github-profile-trophy.vercel.app/?username=Dhruva8878&margin-w=5&theme=radical" alt="Dhruva's" /></a> </p>
+<p align="center"> <a href="https://github.com/Dhruva8878"><img src="https://github-profile-trophy.vercel.app/?username=Dhruva8878&margin-w=5&theme=radical" alt="Dhruv" /></a> </p>
  </details>
 
 
