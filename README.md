@@ -45,8 +45,6 @@
     <img src="https://img.icons8.com/color/48/000000/css3.png" alt="css3"/>
     <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="javascript"/>
     <img src="https://miro.medium.com/max/1200/1*Oe7xavCj5qCBzwTbLDbPTg.jpeg" alt="SQL"  width="48" height="48"/>
-    <img src="[https://img.icons8.com/color/48/000000/npm.png](https://www.javatpoint.com/images/hibernate/hibernate2.png)"  alt="npm"/>   
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45" alt="postman"/>
     <img src="https://img.icons8.com/color/48/000000/git.png" alt="git"/>
     
 </p>
