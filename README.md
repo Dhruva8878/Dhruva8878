@@ -45,9 +45,9 @@
     <img src="https://img.icons8.com/color/48/000000/css3.png" alt="css3"/>
     <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="javascript"/>
     <img src="https://miro.medium.com/max/1200/1*Oe7xavCj5qCBzwTbLDbPTg.jpeg" alt="SQL"  width="48" height="48"/>
-    <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="nodejs"/> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="48" height="48"/>
+    <img src="[https://img.icons8.com/color/48/000000/nodejs.png](https://www.jrebel.com/sites/default/files/image/2020-05/image-blog-revel-top-java-tools.jpg)" alt="JAVA"/> 
+    <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg](https://www.javatpoint.com/images/hibernate/hibernate2.png)" alt="Hibernate" width="48" height="48"/>
+    <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg](https://itsilesia.com/wp-content/uploads/2018/11/mysql-logo.jpg)" alt="MYSQL" width="48" height="48"/>
     <img src="https://img.icons8.com/color/48/000000/npm.png"  alt="npm"/>   
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45" alt="postman"/>
     <img src="https://img.icons8.com/color/48/000000/git.png" alt="git"/>
